@@ -1,5 +1,2 @@
 This is my first git file
 Editing from remote
-
-
-
